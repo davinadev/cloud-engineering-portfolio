@@ -63,3 +63,13 @@ Today I learned the fundamentals of Amazon S3 and how buckets are used to store 
 I practiced uploading, organizing, moving, and deleting images while becoming familiar with the S3 interface. 
 Accidentally placing a file in the wrong folder taught me how object management works in S3 and gave me hands-on experience fixing mistakes. 
 This lab helped me understand a real-world cloud storage service that many companies use every day.
+
+## Screenshots
+
+### EC2 Instance Running
+
+![EC2 Instance Running](ec2-instance-running.png)
+
+### SSH Connection Successful
+
+![SSH Connection Successful](ssh-connection-successful.png)
