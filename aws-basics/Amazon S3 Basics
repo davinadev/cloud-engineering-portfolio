@@ -1,0 +1,65 @@
+# Amazon S3 Basics
+
+## Date
+
+May 29, 2026
+
+## Goal
+
+Learn the basics of Amazon S3, understand how buckets work, and practice managing files in cloud storage.
+
+## AWS Services Used
+
+- Amazon S3
+
+## What I Did
+
+- Logged into the AWS Management Console
+- Opened the Amazon S3 service
+- Explored the S3 interface and learned where buckets and objects are managed
+- Uploaded image files to an S3 bucket
+- Organized files into folders
+- Moved files between folders
+- Deleted files I no longer needed
+
+## What I Learned
+
+- Amazon S3 is AWS's object storage service.
+- Buckets are containers used to store objects such as images, videos, and documents.
+- Objects can be uploaded, organized, moved, and deleted through the S3 console.
+- The S3 interface makes it easy to manage cloud storage resources.
+
+## Problems I Ran Into
+
+- I accidentally placed an image in the wrong folder within my S3 bucket.
+- I had to figure out how object management works in Amazon S3 and how to move files between locations.
+- By exploring the S3 console, I learned how to relocate objects and organize bucket contents correctly.
+- This helped me better understand how S3 stores and manages objects.
+
+## Commands Used
+
+```bash
+# No CLI commands used in this lab
+# Tasks were completed through the AWS Management Console
+```
+
+## Key Takeaways
+
+- Amazon S3 is one of the most important AWS services for cloud storage.
+- Buckets act as containers for storing objects in the cloud.
+- Understanding how to organize and manage files in S3 is a foundational cloud engineering skill.
+
+## Skills Practiced
+
+- AWS
+- Cloud Storage
+- File Management
+- Troubleshooting
+- Cloud Navigation
+
+## Reflection
+
+Today I learned the fundamentals of Amazon S3 and how buckets are used to store files in AWS. 
+I practiced uploading, organizing, moving, and deleting images while becoming familiar with the S3 interface. 
+Accidentally placing a file in the wrong folder taught me how object management works in S3 and gave me hands-on experience fixing mistakes. 
+This lab helped me understand a real-world cloud storage service that many companies use every day.
