@@ -74,6 +74,6 @@ Successfully connecting to the instance gave me confidence using both AWS and th
 
 ## Screenshots
 
-![EC2 Instance Running](./ec2-instance-running.png)
+![EC2 Instance Running](aws-basics/screenshots/ec2-instance-running.png)
 
 ![SSH Connection Successful](./ssh-connection-successful.png)
