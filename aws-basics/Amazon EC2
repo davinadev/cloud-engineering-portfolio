@@ -70,3 +70,14 @@ ssh -i <pem-file> ubuntu@<public-ip>
 Today I learned how to launch and access an EC2 instance using AWS. 
 The most challenging part was getting the SSH command formatted correctly, but troubleshooting the issue helped me better understand how remote connections work. 
 Successfully connecting to the instance gave me confidence using both AWS and the Linux terminal.
+
+
+## Screenshots
+
+### EC2 Instance Running
+
+![EC2 Instance Running](ec2-instance-running.png)
+
+### SSH Connection Successful
+
+![SSH Connection Successful](ssh-connection-successful.png)
