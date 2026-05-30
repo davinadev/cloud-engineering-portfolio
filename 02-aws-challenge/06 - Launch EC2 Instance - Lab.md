@@ -76,11 +76,14 @@ No terminal commands were required for this lab.
 
 ### EC2 Instance Configuration
 
-(Add Screenshot)
+
+![Instance Configuration](screenshots/Instance-config-01.png)
+
+![Instance Configuration 02](screenshots/Instance-congif-02.png)
 
 ### Instance Running Successfully
 
-(Add Screenshot)
+![Instance Running Successfully](screenshots/Instance-running.png)
 
 ## Key Takeaways
 
