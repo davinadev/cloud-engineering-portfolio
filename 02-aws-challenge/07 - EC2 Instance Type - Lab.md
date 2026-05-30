@@ -69,15 +69,15 @@ No terminal commands were required for this lab.
 
 ### Original Instance Configuration
 
-(Add Screenshot)
+![ Original Instance Configuration](screenshots/Original-Instance-Configuration.png)
 
 ### Instance Type Modification
 
-(Add Screenshot)
+![Instance Type Modification](screenshots/Instance-Type-Modification.png)
 
 ### Instance Running After Change
 
-(Add Screenshot)
+![Instance Running After Change](screenshots/Instance-Running-After-Change.png)
 
 ## Key Takeaways
 
