@@ -74,13 +74,13 @@ No terminal commands were required for this lab.
 
 ## Screenshots
 
-### Subnet Configuration
+### Subnet Create
 
-(Add Screenshot)
+![create subnet](screenshots/create-subnet.png)
 
 ### Successful Subnet Creation
 
-(Add Screenshot)
+![created subnet](screenshots/subnet-created.png)
 
 ## Key Takeaways
 
