@@ -26,4 +26,4 @@ Next up:
 #AWS #CloudComputing #CloudEngineer #KodeKloud #AWSCloud #Linux #DevOps #GitHub #LearningInPublic
 
 
-!AWS BASICS-KODEKLOUD (screenshots/AWS BASICS-KODEKLOUD.png)
+![AWS-BASICS-KODEKLOUD](screenshots/AWS-BASICS-KODEKLOUD.png)
