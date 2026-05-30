@@ -24,3 +24,6 @@ Next up:
 * 100 Days of Cloud Challenge
 
 #AWS #CloudComputing #CloudEngineer #KodeKloud #AWSCloud #Linux #DevOps #GitHub #LearningInPublic
+
+
+!AWS BASICS-KODEKLOUD (AWS BASICS-KODEKLOUD.png)
