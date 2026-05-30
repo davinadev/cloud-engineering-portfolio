@@ -2,7 +2,7 @@
 
 Hi, I'm Davina.
 
-I'm building my skills in Cloud Engineering and DevOps through hands-on labs, projects, and continuous learning.
+I'm building my cloud engineering skills through hands-on AWS labs, projects, and continuous learning.
 
 ## Current Learning Path
 
@@ -10,30 +10,34 @@ I'm building my skills in Cloud Engineering and DevOps through hands-on labs, pr
 * Linux Administration
 * Networking Fundamentals
 * Git & GitHub
-* Docker
-* Terraform
-* Kubernetes
+
+## Current Challenge
+
+I'm currently completing the 50-Day AWS Cloud Challenge through KodeKloud, documenting each lab, lesson learned, and troubleshooting experience along the way.
 
 ## AWS Challenge Progress
 
-This repository contains documentation, notes, screenshots, and lessons learned from completing AWS cloud labs and projects.
+Completed:
 
-### Topics Covered
+* Create Key Pair
+* Create Security Group
+* Create Subnet
+* Enable Versioning for S3 Bucket
+* Create GP3 Volume
 
-* EC2
-* IAM
-* S3
-* VPC
+In Progress:
+
+* Launch EC2 Instance
+
+## Skills Practiced So Far
+
+* AWS IAM
+* Amazon EC2
+* Amazon S3
+* VPC Fundamentals
 * Security Groups
-* Load Balancers
-* CloudWatch
-* RDS
-* Lambda
-* ECS
-* EKS
-* DynamoDB
-* SNS/SQS
-* CloudFormation
+* Storage (EBS Volumes)
+* Basic Networking
 
 ## Repository Structure
 
@@ -42,6 +46,8 @@ aws-challenge/
 ├── Day-01-Key-Pair
 ├── Day-02-Security-Group
 ├── Day-03-Subnet
+├── Day-04-S3-Versioning
+├── Day-05-GP3-Volume
 ...
 ```
 
@@ -50,8 +56,10 @@ aws-challenge/
 * Build practical cloud engineering skills
 * Create a strong technical portfolio
 * Earn AWS certifications
-* Transition into a Cloud Engineer / DevOps career
+* Land a Cloud Support or Cloud Engineer role
 
 ## Connect With Me
 
-GitHub: @davinadev
+GitHub: @davinatech
+LinkedIn: linkedin.com/in/davinaknie
+
