@@ -68,11 +68,11 @@ No terminal commands were required for this lab.
 
 ### Instance Settings
 
-(Add Screenshot)
+![Instance Settings](screenshots/Stop-protection-enabled.png)
 
 ### Stop Protection Enabled
 
-(Add Screenshot)
+![Stop Protection Enabled](screenshots/stop-protection-enabled-verified.png)
 
 ## Key Takeaways
 
