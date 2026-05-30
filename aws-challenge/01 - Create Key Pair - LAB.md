@@ -1,4 +1,4 @@
-# Day 1 - Create Key Pair
+# Create Key Pair Lab
 
 ## Date
 
