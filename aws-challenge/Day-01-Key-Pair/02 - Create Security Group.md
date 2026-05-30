@@ -76,11 +76,11 @@ No terminal commands were required for this lab.
 
 ### Security Group Configuration
 
-(Add Screenshot)
+![Security Group Configuration](screenshots/Security-Group-Configuration.png)
 
 ### Inbound Rules Configured
 
-!
+![Security Group Configuration](screenshots/Inbound-Rules-Configured.png)
 
 ## Key Takeaways
 
