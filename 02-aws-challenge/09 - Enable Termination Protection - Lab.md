@@ -68,11 +68,11 @@ No terminal commands were required for this lab.
 
 ### Termination Settings
 
-![Termination Protection Settings](screenshots/termination-protection-settings.png)
+![Termination Protection Settings](screenshots/termination-Settings.png)
 
 ### Termination Protection Enabled
 
-![Termination Protection Enabled](screenshots/termination-protection-enabled.png)
+![Termination Protection Enabled](screenshots/Termination-Protection-Enabled.png)
 
 ## Key Takeaways
 
