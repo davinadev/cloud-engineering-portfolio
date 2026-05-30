@@ -62,6 +62,7 @@ No terminal commands were required for this lab.
 
 ## Screenshots
 
+![enabled Versioning S3](screenshots/versioning-s3-bucket.png)
 
 ## Key Takeaways
 
