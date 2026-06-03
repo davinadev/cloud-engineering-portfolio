@@ -69,16 +69,15 @@ No terminal commands were required for this lab.
 
 ### EC2 Instance Before Termination
 
-(Add Screenshot)
+![ EC2 Instance Before Termination](screenshots/Instance-in-Terminated-State.png)
 
 ### Termination Confirmation
 
-(Add Screenshot)
+![Termination Confirmation](screenshots/Termination-Confirmation.png)
 
 ### Instance in Terminated State
 
-(Add Screenshot)
-
+![Instance in Terminated State](screenshots/EC2-Instance-Before-Termination.png)
 
 ## Key Takeaways
 
