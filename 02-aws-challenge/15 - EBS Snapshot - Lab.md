@@ -72,15 +72,18 @@ No terminal commands were required for this lab.
 
 ### Source Volume
 
-(Add Screenshot)
+![Source Volume](screenshots/Source-Volume.png)
+
 
 ### Snapshot Configuration
 
-(Add Screenshot)
+![Snapshot Configuration](screenshots/Snapshot-Configuration.png)
+
 
 ### Snapshot Completed
 
-(Add Screenshot)
+![Snapshot Completed](screenshots/Source-Volume.png)
+
 
 ## Key Takeaways
 
