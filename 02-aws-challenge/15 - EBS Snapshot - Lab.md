@@ -82,7 +82,7 @@ No terminal commands were required for this lab.
 
 ### Snapshot Completed
 
-![Snapshot Completed](screenshots/Source-Volume.png)
+![Snapshot Completed](screenshots/Snapshot-Completed.png)
 
 
 ## Key Takeaways
