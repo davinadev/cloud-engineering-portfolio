@@ -143,5 +143,4 @@ For each lab, I'll try to document:
 
 Build a strong networking foundation that I can apply to **AWS, Cloud Engineering, DevOps, and Infrastructure as Code**.
 
-**Next:** Linux for Beginners 🐧
 
